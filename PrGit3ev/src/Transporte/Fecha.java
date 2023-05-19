@@ -26,7 +26,7 @@ public class Fecha {
   			ok=true;
   		return ok;	
   	}
-	public Fecha(int ano, int mes, int dia, int hora, int minuto) {
+	public Fecha(int ano, int mes, int dia) {
 	  this.ano = ano;
 	  this.mes = mes;
 	  this.dia = dia;
